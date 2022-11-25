@@ -1,0 +1,5 @@
+chmod +x criar_user.sh
+
+./criar_user.sh
+
+cat /etc/passwd
